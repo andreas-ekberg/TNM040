@@ -1,0 +1,12 @@
+.bar {
+  height : 10px;
+  background-color: tomato;
+}
+
+body {
+  margin: 50px;
+}
+
+.Info:nth-child(2n){
+  background: lightgrey;
+}
